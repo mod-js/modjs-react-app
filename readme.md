@@ -1,6 +1,6 @@
-# A barebones React starter project
+# A barebones React starter Toolchain
 
-A barebones basic react toolchain. Include React + Babel + Webpack + Sass for complier and bundle.
+A barebones basic react Toolchain. Include React + Babel + Webpack + Sass for complier and bundle.
 
 * [More info on ModJS.io](https://www.modjs.io/docs/react-reference/2-create-react-app/)
 
