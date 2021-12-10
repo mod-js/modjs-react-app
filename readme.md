@@ -2,7 +2,7 @@
 
 A barebones basic react Toolchain. Include React + Babel + Webpack + Sass for complier and bundle.
 
-* [More info on ModJS.io](https://www.modjs.io/docs/react-reference/2-create-react-app/)
+<!-- * [More info on ModJS.io](https://www.modjs.io/docs/react-reference/2-create-react-app/) -->
 
 ## Includes
 
